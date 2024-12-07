@@ -6,6 +6,7 @@
 
 ## 動作環境
 ・Tomcat9
+
 ・Java8,11
 
 
@@ -19,7 +20,7 @@ $ ./gradlew build
 ```
 
 
-2. ビルドに成功すれば、build/lib 以下に WAR ファイルが作成されます。
+2. ビルドに成功すれば、build/libs 以下に WAR ファイルが作成されます。
 
 ```
 $ ls -l ./build/libs
@@ -38,6 +39,7 @@ sudo cp build/libs/spiral_pdf_generator.war /var/lib/tomcat9/webapps/
 
 ## ライセンス
 iTextライブラリを利用しているため、AGPLv3 のライブラリとします。
+
 連絡先：SPIRAL株式会社
 
 
