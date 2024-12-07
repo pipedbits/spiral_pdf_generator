@@ -5,9 +5,8 @@
 
 
 ## 動作環境
-・Tomcat9
-
-・Java8,11
+* Tomcat9
+* Java8,11
 
 
 ## ビルド
@@ -38,9 +37,8 @@ sudo cp build/libs/spiral_pdf_generator.war /var/lib/tomcat9/webapps/
 
 
 ## ライセンス
-iTextライブラリを利用しているため、AGPLv3 のライブラリとします。
-
-連絡先：SPIRAL株式会社
+* iTextライブラリを利用しているため、AGPLv3 のライブラリとします。
+* 連絡先：SPIRAL株式会社
 
 
 以上
