@@ -30,7 +30,7 @@ object Versions {
     val commonsIo = "2.4"
     val iTextPdf = "5.1.0"
     val iTextAsian = "5.1.0"
-    val bouncyCastl = "1.46"
+    val bouncyCastle = "1.46"
 }
 
 dependencies {
@@ -40,7 +40,7 @@ dependencies {
     implementation("commons-fileupload:commons-fileupload:${Versions.commonsFileupload}")
     implementation("com.itextpdf:itextpdf:${Versions.iTextPdf}")
     implementation("com.itextpdf:itext-asian:${Versions.iTextAsian}")
-    implementation("org.bouncycastle:bcprov-jdk15:${Versions.bouncyCastl}")
+    implementation("org.bouncycastle:bcprov-jdk15:${Versions.bouncyCastle}")
 }
 
 sourceSets {
