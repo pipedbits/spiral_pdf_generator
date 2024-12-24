@@ -38,7 +38,7 @@ sudo cp build/libs/spiral_pdf_generator.war /var/lib/tomcat9/webapps/
 
 ## ライセンス
 * iTextライブラリを利用しているため、AGPLv3 のライブラリとします。
-* 連絡先：スパイラル株式会社
-
+* 連絡先　　：スパイラル株式会社
+* 提供開始日：2012年11月6日
 
 以上
